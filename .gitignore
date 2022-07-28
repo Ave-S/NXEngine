@@ -21,3 +21,8 @@
 
 # Executables
 *.exe
+
+
+#personal 
+SDL1.2/
+SDL2_ttf/
